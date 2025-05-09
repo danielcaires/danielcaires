@@ -16,11 +16,15 @@ I’m always up for learning something new, solving real-world problems, and wri
 
 ### Find me
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="height:1em; vertical-align:middle;" /> <a href="https://www.linkedin.com/in/daniel-caires">/daniel-caires</a>  
+  <a href="https://www.linkedin.com/in/daniel-caires"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" style="height:1em; vertical-align:middle;" /> /daniel-caires</a>  
 </p>
-<!--p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codepen/codepen-original.svg" style="height:1em; vertical-align:middle;" /> <a href="https://www.linkedin.com/in/daniel-caires">/daniel-caires</a>  
-</p-->
+<!--
+  -- google notebook
+  -- itch.io
+  -- tic80
+  -- microstudio
+-->
+
 
 
 <!--
