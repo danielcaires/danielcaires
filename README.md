@@ -16,27 +16,8 @@ I’m always up for learning something new, solving real-world problems, and wri
 
 ## Find me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAxMjggMTI4IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KICAgIDxwYXRoIGZpbGw9IiNGRkZGRkYiDQogICAgICAgIGQ9Ik0xMTYgM0gxMmE4LjkxIDguOTEgMCAwMC05IDguOHYxMDQuNDJhOC45MSA4LjkxIDAgMDA5IDguNzhoMTA0YTguOTMgOC45MyAwIDAwOS04LjgxVjExLjc3QTguOTMgOC45MyAwIDAwMTE2IDN6TTM5LjE3IDEwN0gyMS4wNlY0OC43M2gxOC4xMXptLTktNjYuMjFhMTAuNSAxMC41IDAgMTExMC40OS0xMC41IDEwLjUgMTAuNSAwIDAxLTEwLjU0IDEwLjQ4ek0xMDcgMTA3SDg4Ljg5Vjc4LjY1YzAtNi43NS0uMTItMTUuNDQtOS40MS0xNS40NHMtMTAuODcgNy4zNi0xMC44NyAxNVYxMDdINTAuNTNWNDguNzNoMTcuMzZ2OGguMjRjMi40Mi00LjU4IDguMzItOS40MSAxNy4xMy05LjQxQzEwMy42IDQ3LjI4IDEwNyA1OS4zNSAxMDcgNzV6Ij48L3BhdGg+DQo8L3N2Zz4=)](https://www.linkedin.com/in/daniel-caires)
-
+[![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:danielocaires@gmail.com)
 <!--
-  -- google notebook
-  -- itch.io
-  -- tic80
-  -- microstudio
--->
-
-
-
-<!--
-**danielcaires/danielcaires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+[![codepen](https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen&logoColor=FFFFFF)](https://codepen.io/YtseDan/)
+[![itch.io](https://img.shields.io/badge/Itch%2EIo-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=FFFFFF)](https://codepen.io/YtseDan/)
 -->
