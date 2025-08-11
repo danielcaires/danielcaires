@@ -23,6 +23,7 @@ I’m always up for learning something new, solving real-world problems, and wri
 [![gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF)](mailto:danielocaires@gmail.com)
 [![codepen](https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen&logoColor=FFFFFF)](https://codepen.io/YtseDan/)
 <!--
+[![tic80](https://img.shields.io/badge/tic80-333C57?style=for-the-badge&logo=codepen&logoColor=FFFFFF)](https://tic80.com/dev?id=11669)
 [![codepen](https://img.shields.io/badge/codepen-1E1F26?style=for-the-badge&logo=codepen&logoColor=FFFFFF)](https://codepen.io/YtseDan/)
 [![itch.io](https://img.shields.io/badge/Itch%2EIo-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=FFFFFF)](https://codepen.io/YtseDan/)
 -->
