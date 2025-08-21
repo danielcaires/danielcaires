@@ -2,9 +2,8 @@
 [![Hello](https://readme-typing-svg.herokuapp.com?font=Doto&pause=200&color=23A172&vCenter=true&multiline=true&width=435&height=55&lines=Hello%2C+World!I'm+Daniel!)](https://git.io/typing-svg)
 [![banner](banner.png)](https://codepen.io/YtseDan/pen/NPPOzXg)
 ##
-A passionate developer with over 15 years of experience turning ideas into code. 
-I love building useful tools, creating smart solutions, and exploring the intersections between education, data, and technology. 
-I’m always up for learning something new, solving real-world problems, and writing clean, meaningful code. Feel free to check out my projects and connect!
+I'm a developer with 15+ years of experience, working with Python, Django, PHP, TypeScript, and SQL to build internal systems, educational dashboards, and integrations. I bring a strategic view to projects, anticipating challenges and proposing efficient solutions while keeping execution aligned with goals. With a strong academic background, I’ve developed solid research and problem-solving skills, an analytical mindset in math and statistics, and the ability to communicate ideas clearly and effectively.
+Feel free to check out my projects and connect!
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" alt="Python" style="width:60px; height:60px;"/>
